@@ -1,6 +1,5 @@
 #include "stdafx.h"
 #include "./basic/constexpr.h"
-using namespace std;
 
 int main()
 {
