@@ -10,5 +10,7 @@ int main()
 
     constexprForTFunc();
 
+    constexprForClass();
+
     return 0;
 }
